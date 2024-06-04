@@ -1,0 +1,12 @@
+.select-dropdown{
+  color: #ffff;
+  background-color: #616161;
+}
+
+ul.dropdown-content.select-dropdown {
+  color: #ffff;
+}
+
+.no-frame {
+  border: 0 !important;
+}
